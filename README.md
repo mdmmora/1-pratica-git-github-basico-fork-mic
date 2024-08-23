@@ -1,4 +1,4 @@
-# Prática de Git e Github Básico
+# Prática de Git e Github Básico - alt
 
 Vamos iniciar a trabalhar em equipe usando git e github. Assim:
 
